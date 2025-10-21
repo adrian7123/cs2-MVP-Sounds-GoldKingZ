@@ -1,0 +1,13 @@
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/bin/Debug/net8.0/lang/en.json
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/bin/Debug/net8.0/lang/pt-br.json
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/bin/Debug/net8.0/MVP-Sounds-GoldKingZ.deps.json
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/bin/Debug/net8.0/MVP-Sounds-GoldKingZ.dll
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/bin/Debug/net8.0/MVP-Sounds-GoldKingZ.pdb
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/MVP-Sounds-GoldKingZ.csproj.AssemblyReference.cache
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/MVP-Sounds-GoldKingZ.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/MVP-Sounds-GoldKingZ.csproj.CoreCompileInputs.cache
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/MVP-Sounds-GoldKingZ.sourcelink.json
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/MVP-Sounds-GoldKingZ.dll
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/refint/MVP-Sounds-GoldKingZ.dll
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/MVP-Sounds-GoldKingZ.pdb
+/Volumes/SSD/dev/qota/cs2-MVP-Sounds-GoldKingZ/obj/Debug/net8.0/ref/MVP-Sounds-GoldKingZ.dll
